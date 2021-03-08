@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=vandsonfalcao&color=brightgreen)
 
-![alt](https://uploaddeimagens.com.br/imagens/dNPjl6o)
+<img href="https://uploaddeimagens.com.br/imagens/dNPjl6o" alt="Bem Vindo!" />
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Vandson!
 
@@ -11,8 +11,8 @@ Não é de hoje que sou fascinado em tecnologia mas devido a necessidades e falt
 
 Faço parte do _Ignite_(https://app.rocketseat.com.br), estudo na trilha de **ReactJS**!
 
-[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandsonfalcao/)](https://www.linkedin.com/in/vandsonfalcao/)
-[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vandsonsf@gmail.com)](mailto:vandsonsf@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-vandsonfalcao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandsonfalcao/)](https://www.linkedin.com/in/vandsonfalcao/)
+[![Gmail Badge](https://img.shields.io/badge/-vandsonsf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vandsonsf@gmail.com)](mailto:vandsonsf@gmail.com)
 
 ## 🚀💻 Technologies & Tools
 
