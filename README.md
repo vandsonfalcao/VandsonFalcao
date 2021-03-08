@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=vandsonfalcao&color=brightgreen)
 
-<img href="https://uploaddeimagens.com.br/imagens/dNPjl6o" alt="Bem Vindo!" />
+<img src="https://uploaddeimagens.com.br/imagens/dNPjl6o" width="100%">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Vandson!
 
