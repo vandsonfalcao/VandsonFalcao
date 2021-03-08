@@ -6,7 +6,7 @@
 
 ## Quem Sou Eu ?
 
-Amo codar!
+<p>Amo codar!</p>
 Não é de hoje que sou fascinado em tecnologia mas devido a necessidades e falta de oportunidades segui carreira no mercado de redes por sete longos anos, decidi recentemente seguir meus sonhos, voltei a estudar programação a uns anos atrás e me organizei para sair do meu ultimo emprego, iniciei uma grande jornada rumo ao conhecimento fullstack para trabalhar com que gosto.
 
 Faço parte do _Ignite_(https://app.rocketseat.com.br), estudo na trilha de **ReactJS**!
