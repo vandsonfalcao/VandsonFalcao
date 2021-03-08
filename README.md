@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=vandsonfalcao&color=brightgreen)
 
-<img src="https://uploaddeimagens.com.br/imagens/dNPjl6o" width="100%">
+[My image](https://github.com/vandsonfalcao/NLW4-moveit-nextjs/blob/main/public/bg-logo.svg)
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Vandson!
 
