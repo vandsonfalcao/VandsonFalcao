@@ -4,10 +4,10 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o Vandson!
 
-## Quem Sou Eu ?
+## Sobre mim...
 
 <p>Amo codar!</p>
-<p>Não é de hoje que sou fascinado em tecnologia mas devido a necessidades e falta de oportunidades segui carreira no mercado de redes por sete longos anos, decidi recentemente seguir meus sonhos, voltei a estudar programação a uns anos atrás e me organizei para sair do meu ultimo emprego, iniciei uma grande jornada rumo ao conhecimento fullstack para trabalhar com que gosto.</p>
+<p>Nasci em 1995, resido em Fortaleza/CE e não é de hoje que sou fascinado em tecnologia mas devido a necessidades e falta de oportunidades segui carreira no mercado de redes por sete longos anos, decidi recentemente seguir meus sonhos, voltei a estudar programação a uns anos atrás e me organizei para sair do meu ultimo emprego, iniciei uma grande jornada rumo ao conhecimento fullstack para trabalhar com que gosto.</p>
 
 <p>Faço parte do _Ignite_(https://app.rocketseat.com.br), estudo na trilha de <strong>ReactJS</strong>!</p>
 
