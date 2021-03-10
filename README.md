@@ -9,7 +9,7 @@
 <p>Amo codar!</p>
 <p>Nasci em 1995, resido em Fortaleza/CE e não é de hoje que sou fascinado em tecnologia mas devido a necessidades e falta de oportunidades segui carreira no mercado de redes por sete longos anos, decidi recentemente seguir meus sonhos, voltei a estudar programação a uns anos atrás e me organizei para sair do meu ultimo emprego, iniciei uma grande jornada rumo ao conhecimento fullstack para trabalhar com que gosto.</p>
 
-<p>Faço parte do _Ignite_(https://app.rocketseat.com.br), estudo na trilha de <strong>ReactJS</strong>!</p>
+<p>Faço parte do [_Ignite_](https://app.rocketseat.com.br), estudo na trilha de <strong>ReactJS</strong>!</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-vandsonfalcao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandsonfalcao/)](https://www.linkedin.com/in/vandsonfalcao/)
 [![Gmail Badge](https://img.shields.io/badge/-vandsonsf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vandsonsf@gmail.com)](mailto:vandsonsf@gmail.com)
@@ -32,9 +32,11 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vandsonfalcao&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandsonfalcao&hide=TeX&layout=compact)
 
-## 🎶Music & 🎮Games
+## 🎶Music
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vannashsound&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=vannashsound&redirect=true)
+
+## 🎮Games
 
 Apex Legends! PSN
 TNBr_FakeNinJa
