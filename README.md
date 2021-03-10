@@ -31,3 +31,10 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vandsonfalcao&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandsonfalcao&hide=TeX&layout=compact)
+
+## 🎶Music & 🎮Games
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vannashsound&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=vannashsound&redirect=true)
+
+Apex Legends! PSN
+TNBr_FakeNinJa
