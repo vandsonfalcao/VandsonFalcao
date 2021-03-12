@@ -40,4 +40,3 @@
 
 Apex Legends! PSN
 TNBr_FakeNinJa
-![ApexStats](https://apexstats.vercel.app/)
